@@ -32,9 +32,7 @@ phone number.
 I have not exhaustively tested this. The most common
 phone number formats I get are:
 
-999999999
-999.999.9999
-999-999-9999
+999999999 | 999.999.9999 | 999-999-9999
 
 So far they get formatted to the nice format as I wanted, 
 so I saved this for re-use. 
