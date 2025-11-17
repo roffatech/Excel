@@ -5,7 +5,18 @@ Phone-Number-Formula.txt
 ________________________________________________________________
 The formula assumes 10 digits and any combination of 
 non-digits to create a value in (999) 999-9999 format, 
-which I will call the 'nice' format.
+which I will call the 'nice' format. This is commonly 
+used in the US, and other countries in the so-called
+North American Numbering Plan (NANP).
+
+On a side note, calling any country that is part of 
+the North American Numbering Plan (NANP) from the US 
+is the done the same way as making a domestic 
+long-distance call. No international exit code 
+(like 011) is needed. 
+
+So the 'nice' format would be valid for Canada, Jamaica, 
+and the Dominican Republic for example. 
 
 The formula was created using a Claude.ai prompt. 
 
