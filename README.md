@@ -24,16 +24,14 @@ This was used in a worksheet with column headers in row
 1 and data beginning in row 2. Column C has 'raw' phone 
 number data; column D has the desired format. 
 
-Put the formula in D2 and then copy/paste it down to as 
-many rows as you like. 
-
-I did that by saving the formula to D2, then pressing 
-Ctrl-C to put that cell's content in the clipboard. I 
-then selected 99 more rows of cells in column D so that
-the formula would be applied from D3 to D101. 
+I applied the formula to 100 rows by saving the formula 
+to D2, then pressing Ctrl-C to put that cell's content 
+in the clipboard. I then selected 99 more rows of cells 
+in column D so that the formula would be applied from D3 
+to D101. 
 
 If a cell in column C was blank, then the corresponding
-cell in column D will also be blank. 
+cell in column D would also be blank. 
 
 If your raw phone number data does not start in C2, then
 edit Phone-Number-Formula.txt and replace every occurrance 
