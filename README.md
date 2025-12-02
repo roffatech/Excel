@@ -18,7 +18,7 @@ choose Custom from the Category list. Enter the formula
 apply your formula. 
 
 Phone-Number-Formula.txt
-________________________________________________________________
+----
 The formula assumes 10 digits and any combination of 
 non-digits to create a value in (999) 999-9999 format, 
 which I will call the 'nice' format. This is commonly 
