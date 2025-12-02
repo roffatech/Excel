@@ -1,6 +1,22 @@
 # Excel
 Formulas and VBA code are kept here
 
+Abbreviate-Millions-to-M.txt
+----
+The formula formats a number on the order of millions 
+that it appears as currency, in number of millions, and
+ends with a capital M. 
+
+For example, 3860000 would be converted to $3.86M.
+
+To apply, select the cell or cells you want to re-format. 
+Then right-click to get a menu and choose Format Cells.
+
+In the Format Cells popup, choose the Number tab, then 
+choose Custom from the Category list. Enter the formula
+**$0.00,,"M"** in the Type box, then press OK. This should
+apply your formula. 
+
 Phone-Number-Formula.txt
 ________________________________________________________________
 The formula assumes 10 digits and any combination of 
